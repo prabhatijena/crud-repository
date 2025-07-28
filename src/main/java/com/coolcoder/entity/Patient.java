@@ -24,5 +24,6 @@ public class Patient {
 	private Integer age;
 	private Double salary;
         private String city;
+        private Integer number;
 
 }
