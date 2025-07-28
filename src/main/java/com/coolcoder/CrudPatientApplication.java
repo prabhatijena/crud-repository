@@ -11,7 +11,9 @@ public class CrudPatientApplication {
 
                 int i = 10;
                 int j = 20;
+
                 double d = 56.00;
+                String s1 = "Bipin";
                 String s = "Prabhati";
 		boolean b = true;
 
