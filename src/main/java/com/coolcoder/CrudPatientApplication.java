@@ -18,6 +18,15 @@ public class CrudPatientApplication {
 		boolean b = true;
 
 	}
+public void m2(){
+  
+}
+
+public void m1(){
+
+     int a = 10;
+     int b = 20;
+}
 
          
 
