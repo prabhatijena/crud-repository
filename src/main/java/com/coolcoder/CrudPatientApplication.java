@@ -11,6 +11,7 @@ public class CrudPatientApplication {
 
                 int i = 10;
                 int j = 20;
+		boolean b = true;
 	}
 
          
