@@ -27,6 +27,7 @@ public class Patient {
         private double salary1;
         private Integer number;
 	private boolean married;
+        private Integer patientid;
 
 
 }
