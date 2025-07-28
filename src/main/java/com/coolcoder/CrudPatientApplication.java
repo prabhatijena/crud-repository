@@ -16,12 +16,16 @@ public class CrudPatientApplication {
                 String s1 = "Bipin";
                 String s = "Prabhati";
 		boolean b = true;
+                double d1 = 67.00;
 
 	}
+<<<<<<< Updated upstream
 public void m2(){
   
 }
 
+=======
+>>>>>>> Stashed changes
 public void m1(){
 
      int a = 10;
