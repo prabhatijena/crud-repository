@@ -10,4 +10,6 @@ public class CrudPatientApplication {
 		SpringApplication.run(CrudPatientApplication.class, args);
 	}
 
+         int a = 10;
+
 }
