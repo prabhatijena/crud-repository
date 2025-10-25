@@ -23,16 +23,9 @@ public class Patient {
 	private String name;
 	private Integer age;
 	private Double salary;
-        private String city;
-        private double salary1;
-        private Integer number;
+    private String city;
+    private double salary1;
+    private Integer number;
 	private boolean married;
 	private String lastname;
-
-        private Integer patientid;
-
-	private String district;
-
-
-
 }
